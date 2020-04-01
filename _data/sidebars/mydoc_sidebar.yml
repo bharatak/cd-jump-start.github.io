@@ -1,0 +1,98 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Starter Kit
+  version: 0.1
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /notfound.html
+      output: web, pdf
+
+    - title: Repo Setup
+      url: /notfound.html
+      output: web, pdf
+
+  - title: Logging
+    output: web, pdf
+    folderitems:
+
+    - title: Structured Logging
+      url: /notfound.html
+      output: web, pdf
+
+    - title: Blah
+      url: /notfound.html
+      output: web, pdf
+
+  - title: Configuration
+    output: web, pdf
+    folderitems:
+
+      - title: Blah
+        url: /notfound.html
+        output: web, pdf
+
+  - title: Build
+    output: web, pdf
+    folderitems:
+
+    - title: Build Pipeline Stages
+      url: /notfound.html
+      output: web, pdf
+
+    - title: Deployment
+      url: /notfound.html
+      output: web, pdf
+
+    - title: Health Checks
+      url: /notfound.html
+      output: web, pdf
+
+
+  - title: Secret Management
+    output: web, pdf
+    folderitems:
+
+      - title: Blah
+        url: /notfound.html
+        output: web, pdf
+
+  - title: Authentication
+    output: web, pdf
+    folderitems:
+
+      - title: Blah
+        url: /notfound.html
+        output: web, pdf
+
+  - title: API Strategy
+    output: web, pdf
+    folderitems:
+
+      - title: Blah
+        url: /notfound.html
+        output: web, pdf
