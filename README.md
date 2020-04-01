@@ -2,7 +2,7 @@
 The following guide provides guidelines on how to create documentation
 
 ###Adding a new navigation menu
-* Navigate to _data/sidebars/mydoc_sidebar.yml file
+* Navigate to [_data/sidebars/mydoc_sidebar.yml](https://github.com/cd-jump-start/cd-jump-start.github.io/blob/master/_data/sidebars/mydoc_sidebar.yml) file
 * Add an item (title,url,output,type) under respective Section.  for e.g.
 ```
   - title: Overview
@@ -18,7 +18,7 @@ The following guide provides guidelines on how to create documentation
 Ensure that the url ends with .html.  The md file gets generated as HTML  
 
 ###Adding a new page
-* Create a new page in pages/mydoc folder as .md file
+* Create a new page in [pages/mydoc](https://github.com/cd-jump-start/cd-jump-start.github.io/tree/master/pages/mydoc) folder as .md file
 * Every page should start with the header containing title, tags, keywords, summary.  e.g.
 ```
 ---
@@ -40,7 +40,7 @@ folder: mydoc
 
 ###Editing an existing page
 * There is a link of "Edit Me" on every page from which you can directly edit the page
-* Navigate to the relevant md page in pages/mydoc directory and update it.
+* Navigate to the relevant md page in [pages/mydoc](https://github.com/cd-jump-start/cd-jump-start.github.io/tree/master/pages/mydoc)  directory and update it.
 
 ###Miscellaneous
 
@@ -56,7 +56,7 @@ folder: mydoc
 ```
 
 ####Writing Code Block
-* If you want to document code, you can write a block like this
+* If you want to document code, you can write a block like this. (look at md code to see the ```js)
 
 ```js
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
