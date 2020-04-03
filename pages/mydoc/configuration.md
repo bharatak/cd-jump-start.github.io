@@ -23,4 +23,9 @@ folder: mydoc
 - Read config values from a configuraton service
 - Listen to config changes or provide an endpoint to be invoked when config changes
 
+## Overview of options
+Following diagram illustrates the different ways in which configuration can be handled in applications
+
+![Config Options overview](configOverview.jpg)
+
 {% include links.html %}
