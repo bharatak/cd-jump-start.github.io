@@ -52,8 +52,8 @@ entries:
     output: web, pdf
     folderitems:
 
-      - title: Blah
-        url: /notfound.html
+      - title: Overview
+        url: /configuration.html
         output: web, pdf
 
   - title: Build
