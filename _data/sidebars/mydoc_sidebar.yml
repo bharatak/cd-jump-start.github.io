@@ -55,6 +55,15 @@ entries:
       - title: Overview
         url: /configuration.html
         output: web, pdf
+      - title: Java
+        url: /javaconfig.html
+        output: web, pdf
+      - title: dotnetcore
+        url: /dotnetcoreconfig.html
+        output: web, pdf
+      - title: Golang
+        url: /golangconfig.html
+        output: web, pdf
 
   - title: Build
     output: web, pdf
