@@ -22,15 +22,15 @@ entries:
   - title: Overview
     output: web, pdf
     folderitems:
-
-    - title: Get started
+    
+    - title: Introduction
       url: /index.html
       output: web, pdf
-      type: homepage
 
-    - title: Introduction
+    - title: Get started
       url: /notfound.html
       output: web, pdf
+      type: homepage
 
     - title: Repo Setup
       url: /notfound.html
