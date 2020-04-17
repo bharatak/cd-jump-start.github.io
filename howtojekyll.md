@@ -3,7 +3,7 @@ title: "Getting started with the Starter Kit"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: index.html
+permalink: howtojekyll.html
 summary: This page provides details about deploying the sample reference application
 ---
 
