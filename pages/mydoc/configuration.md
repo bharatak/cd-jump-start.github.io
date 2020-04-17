@@ -26,6 +26,6 @@ folder: mydoc
 ## Overview of options
 Following diagram illustrates the different ways in which configuration can be handled in applications
 
-![Config Options overview](configOverview.jpg)
+![catalyst overview](configOverview.jpg)
 
 {% include links.html %}
