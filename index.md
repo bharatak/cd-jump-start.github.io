@@ -32,4 +32,7 @@ Project Catalyst aims at providing this foundation to projects in following ways
 
 * Production Infra
 
+Catalyst overview here:
+![catalyst overview](configOverview.jpg)
+
 {% include links.html %}
