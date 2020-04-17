@@ -1,5 +1,5 @@
 ---
-title: "Getting started with the Project Catalyst"
+title: "Introduction to the Project Catalyst"
 keywords: catalyst starterkit service-starter
 tags: [getting_started]
 sidebar: mydoc_sidebar
