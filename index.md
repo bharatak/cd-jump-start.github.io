@@ -33,6 +33,6 @@ Project Catalyst aims at providing this foundation to projects in following ways
 * Production Infra
 
 Catalyst overview here:
-![catalyst overview](configOverview.jpg)
+![catalyst overview](catalystOverview.jpg)
 
 {% include links.html %}
