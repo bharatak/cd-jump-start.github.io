@@ -38,15 +38,7 @@ entries:
 
   - title: Logging
     output: web, pdf
-    folderitems:
-
-    - title: Structured Logging
-      url: /notfound.html
-      output: web, pdf
-
-    - title: Blah
-      url: /notfound.html
-      output: web, pdf
+    url: /logging.html
 
   - title: Configuration
     output: web, pdf
